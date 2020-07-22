@@ -1,0 +1,2 @@
+scheduler_xiaobi_is_open 0
+scheduler_xiaoyue_is_open 0

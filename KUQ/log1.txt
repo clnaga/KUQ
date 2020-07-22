@@ -1,0 +1,311 @@
+2020-07-07 15:36:47,024 - awesome.logger_s - DEBUG - From: 2567136339, NickName: 茯苓, Say: 您好，我现在有事不在，一会再和您联系。
+2020-07-07 21:10:53,316 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 哈哈哈哈哈哈哈
+2020-07-07 21:11:08,088 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 会撩
+2020-07-07 23:00:07,547 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 你好，我现在有事不在，一会再和你联系。
+2020-07-08 15:28:37,063 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: 刚出发
+2020-07-08 17:34:49,791 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔软
+2020-07-08 17:44:00,462 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: 明天11点提醒我去建行
+2020-07-08 17:46:10,518 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: 明天11点去建行 开启提醒
+2020-07-08 17:47:18,521 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: 毕院士提醒工具开启
+2020-07-08 18:00:41,045 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: 添加提醒 明天11点 去建行
+2020-07-08 18:01:01,212 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: 添加提醒 明天 11点 去建行
+2020-07-08 18:01:31,641 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: 添加提醒 明天 10点 去建行
+2020-07-08 18:02:30,886 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 添加提醒 明天 10点 去建行
+2020-07-08 18:05:28,875 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：添加提醒 明天 10点 去建行
+2020-07-08 18:06:26,426 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：添加提醒 明天 10点 去建行
+2020-07-08 18:07:03,518 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：添加提醒 明天 10点 去建行
+2020-07-08 18:07:44,316 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：添加提醒 明天 10点 去建行
+2020-07-08 18:08:41,735 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, 执行指令：添加提醒 明天 10点 去建行
+2020-07-09 00:05:57,220 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 明天就要说再见啦
+2020-07-09 08:21:41,783 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 哈哈哈 交流交流
+2020-07-09 08:22:06,102 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 不要自闭哦
+2020-07-09 09:42:43,086 - awesome.logger_s - DEBUG - From: 1145581816, NickName: RXC-JS, Say: 自闭
+2020-07-09 09:42:52,244 - awesome.logger_s - DEBUG - From: 1145581816, NickName: RXC-JS, Say: 想念程钊
+2020-07-09 09:45:46,552 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：我的位置 杭州
+2020-07-09 09:46:29,454 - awesome.logger_s - DEBUG - From: 1145581816, NickName: RXC-JS, Say: 想念王玥
+2020-07-09 11:17:26,078 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 反洗钱
+2020-07-09 11:17:35,815 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 反洗钱宣传
+2020-07-09 11:17:42,693 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 洗钱
+2020-07-09 11:17:50,616 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 洗钱风险
+2020-07-09 11:18:15,100 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 电信诈骗
+2020-07-09 11:18:33,445 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 洗钱分子
+2020-07-09 11:18:47,131 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 疫情期间诈骗
+2020-07-09 11:18:56,687 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 洗钱风险点
+2020-07-09 12:27:43,082 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 你爹走了
+2020-07-09 12:27:48,602 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 啊？
+2020-07-09 12:28:06,236 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 你爹地，走了
+2020-07-09 12:28:12,998 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 好吧又傻了
+2020-07-09 12:28:20,679 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 龙哥
+2020-07-09 12:28:34,385 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 是的是的没错没错
+2020-07-09 12:28:42,049 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, 错误：发送表情、图片、语音
+2020-07-09 15:20:33,535 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 那喀索斯是谁
+2020-07-09 16:13:19,742 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: ok
+2020-07-09 17:47:39,903 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 认真的吗
+2020-07-09 17:47:48,707 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 放屁
+2020-07-09 17:48:02,585 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 我已经很完美了
+2020-07-09 17:48:11,677 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 再见
+2020-07-09 17:52:10,371 - awesome.logger_s - DEBUG - From: 2396312932, NickName: ❀安屿, Say: 谢谢夸奖🌚
+2020-07-09 18:33:30,902 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：添加提醒 18点34 啦啦啦
+2020-07-09 21:05:21,566 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 这是在变相骂我吗
+2020-07-09 21:05:58,697 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 气死爷了
+2020-07-09 21:36:27,385 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-10 09:46:52,314 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 嗯呐
+2020-07-10 09:47:05,354 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 那也很浪漫呢
+2020-07-10 13:33:38,658 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 谭松韵
+2020-07-10 13:33:44,392 - awesome.logger_s - DEBUG - From: 767862831, NickName: 吖嘿, Say: 今夏
+2020-07-10 17:30:57,351 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 好
+2020-07-10 19:28:34,234 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 未来
+2020-07-10 20:04:58,767 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-10 20:05:02,683 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 哎呀呀
+2020-07-10 20:05:14,845 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你能不能换句话啊
+2020-07-10 20:05:20,194 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 唱歌
+2020-07-10 20:05:31,716 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 想要你唱
+2020-07-10 20:07:06,636 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-10 23:00:13,620 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 好的
+2020-07-10 23:01:34,143 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-10 23:01:39,752 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-10 23:01:43,683 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-10 23:01:49,182 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-10 23:01:53,278 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-10 23:01:58,904 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 卧槽
+2020-07-11 13:42:51,652 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: 钊宝是大猪蹄子
+2020-07-11 13:59:38,990 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: 我是精灵
+2020-07-11 14:22:54,441 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-11 14:22:55,024 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你爸爸呢
+2020-07-11 14:23:03,677 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你生病了？
+2020-07-11 14:24:33,851 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 不是
+2020-07-11 15:14:56,780 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-11 15:35:55,025 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-11 15:35:58,919 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 嘿嘿
+2020-07-11 15:36:04,492 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我喜欢😘
+2020-07-11 15:36:14,085 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 小傻逼
+2020-07-11 15:36:26,419 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我怎么可能是是粗俗
+2020-07-11 15:36:31,315 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我没有说
+2020-07-11 15:40:49,590 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我怎么可能是是粗俗
+2020-07-11 15:40:49,915 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 哦哦
+2020-07-11 15:40:52,316 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 嗯嗯
+2020-07-11 15:40:54,909 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 哈哈
+2020-07-11 15:40:58,360 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 好好
+2020-07-11 15:41:01,195 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 嗯
+2020-07-11 15:41:04,444 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 嗯
+2020-07-11 15:41:09,960 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 非主流
+2020-07-11 15:49:39,430 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你咋自动回复了
+2020-07-11 15:49:39,802 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 嗯
+2020-07-11 15:49:47,785 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-11 15:49:56,047 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 半自动？
+2020-07-11 15:51:19,881 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 你是非主流
+2020-07-11 15:51:23,612 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 是你
+2020-07-11 20:30:00,884 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 想钊桑
+2020-07-11 20:30:05,117 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-11 20:30:07,372 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 嘿嘿
+2020-07-11 21:00:05,963 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 讲个笑话
+2020-07-11 21:00:49,106 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 仔讲一个笑话
+2020-07-11 21:00:58,478 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 还要
+2020-07-11 23:00:17,984 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 好的
+2020-07-11 23:58:30,956 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: /脑阔疼/脑阔疼
+2020-07-12 01:18:37,489 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 想开啦
+2020-07-12 17:16:07,885 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 是吗
+2020-07-12 17:16:19,231 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 过分了兄弟
+2020-07-12 17:16:31,378 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 你等着
+2020-07-12 17:41:20,936 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, Say: 哎哟呵～
+2020-07-12 23:10:20,165 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-12 23:10:25,990 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 爱你
+2020-07-12 23:10:32,482 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 谢谢
+2020-07-12 23:10:39,691 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 爱你爱你
+2020-07-12 23:10:44,925 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 傻逼
+2020-07-12 23:10:52,255 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 换句话
+2020-07-12 23:10:57,702 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你说
+2020-07-12 23:11:05,543 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 讲个笑话
+2020-07-13 03:33:28,446 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 好
+2020-07-13 09:35:02,665 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 1
+2020-07-13 09:35:20,419 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 2
+2020-07-13 09:35:22,262 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 3
+2020-07-13 09:35:24,204 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 4
+2020-07-13 09:35:25,439 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 5
+2020-07-13 09:35:26,637 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 6
+2020-07-13 09:35:28,441 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 7
+2020-07-13 09:35:29,548 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 8
+2020-07-13 09:35:30,709 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 9
+2020-07-14 09:32:46,100 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 6
+2020-07-14 09:32:46,431 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 1
+2020-07-14 09:32:46,761 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 6
+2020-07-14 09:32:47,086 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 火花是啥子鬼
+2020-07-14 09:32:47,428 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 卧槽
+2020-07-14 09:32:47,787 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 是坏了吗
+2020-07-14 09:32:48,253 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 咋不回我了
+2020-07-14 09:32:48,599 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 你不是机器人嘛
+2020-07-14 09:32:48,884 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: ？
+2020-07-14 09:32:49,147 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 爱你爱你爱你爱你
+2020-07-14 09:32:49,321 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: echo 啦啦啦
+2020-07-14 09:32:49,488 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: \echo 啦啦啦
+2020-07-14 09:32:49,781 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 哈哈
+2020-07-14 09:32:50,032 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 哈哈
+2020-07-14 09:32:50,341 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 哈哈哈
+2020-07-14 09:32:50,637 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-14 09:32:50,952 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 滴滴滴
+2020-07-14 09:32:51,266 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 急急急
+2020-07-14 09:32:51,586 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 在不
+2020-07-14 09:32:51,972 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: yyyyyyy
+2020-07-14 09:32:52,263 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 活啦吗
+2020-07-14 09:32:52,620 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 货了吗
+2020-07-14 09:32:52,922 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: 王玥是精灵
+2020-07-14 09:32:53,322 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: aaaaa
+2020-07-14 09:33:19,504 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-14 09:40:35,241 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 活了吗
+2020-07-14 09:40:38,528 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 哈哈哈
+2020-07-14 11:01:23,198 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 卧槽
+2020-07-14 13:58:24,454 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 23333
+2020-07-14 14:00:58,192 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, 执行指令：我的位置 常州
+2020-07-14 14:19:53,859 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 好
+2020-07-14 14:19:57,679 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 爱你
+2020-07-14 14:20:05,349 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 渣男
+2020-07-14 15:29:34,122 - awesome.logger_s - DEBUG - From: 67162261, NickName: 毕卉, 执行指令：关闭毕院士提醒
+2020-07-14 17:57:02,969 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-14 17:58:29,637 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 情话
+2020-07-14 17:58:34,506 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 情话
+2020-07-14 17:58:40,671 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-14 17:58:45,107 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-14 17:58:50,435 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 温柔
+2020-07-14 17:59:01,440 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 你爱我吗
+2020-07-14 17:59:08,422 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 傻逼
+2020-07-14 18:00:13,439 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 哈哈
+2020-07-14 18:00:18,118 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 自卑
+2020-07-14 18:00:24,732 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 同性恋
+2020-07-14 18:01:36,431 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 呵呵
+2020-07-14 18:01:43,611 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 你不会
+2020-07-14 18:02:02,636 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 你不试试怎么知道
+2020-07-14 18:05:19,230 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 好
+2020-07-14 18:53:00,065 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 好
+2020-07-14 23:00:22,538 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 收到~
+2020-07-14 23:10:42,961 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 你根本不值得我洗头, Say: 失望
+2020-07-15 13:31:37,715 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
+2020-07-15 14:04:28,223 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 娃哈哈
+2020-07-15 14:04:36,273 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我也是想你
+2020-07-15 14:04:51,058 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 太甜了吧
+2020-07-16 14:27:47,206 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 1
+2020-07-16 14:27:47,213 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：天气 杭州
+2020-07-16 14:27:47,546 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 你又自闭了吗
+2020-07-16 14:28:33,007 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: hi
+2020-07-16 14:28:33,288 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-16 14:42:28,900 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 技术监督局
+2020-07-16 14:42:29,179 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 啊?
+2020-07-16 14:42:29,436 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-16 14:42:29,736 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-16 14:42:30,063 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-16 14:42:30,064 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, 错误：发送表情、图片、语音
+2020-07-16 14:42:30,421 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 在不
+2020-07-16 14:42:30,794 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 龙哥
+2020-07-16 14:42:31,271 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 02
+2020-07-16 14:42:31,565 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-16 14:43:54,490 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 哈喽
+2020-07-16 14:44:14,210 - awesome.logger_s - DEBUG - From: 1398488953, NickName: 依然儒雅随和的我, Say: 1
+2020-07-16 15:57:45,825 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 滚
+2020-07-16 18:01:01,877 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 依赖你
+2020-07-17 10:29:07,639 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 滴滴
+2020-07-17 14:03:52,223 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 我还不想死
+2020-07-17 14:03:53,030 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 。。。
+2020-07-17 15:22:51,627 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 滴滴
+2020-07-17 15:23:03,013 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 讲个笑话听听
+2020-07-17 15:23:29,645 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 哈哈哈
+2020-07-17 15:23:58,904 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: link start
+2020-07-17 15:24:28,288 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 风卷残云
+2020-07-17 15:24:34,710 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 成语接龙
+2020-07-17 15:24:43,741 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 一意孤行
+2020-07-17 15:25:58,329 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我都快要没有男朋友了
+2020-07-17 15:26:10,837 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-17 15:26:16,721 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你是不是啥
+2020-07-17 17:59:59,243 - awesome.logger_s - DEBUG - From: 2567136339, NickName: 茯苓, 错误：发送表情、图片、语音
+2020-07-17 23:10:06,924 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: didi
+2020-07-18 00:02:00,279 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: 钊宝智障
+2020-07-18 00:02:00,699 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: 你也智障
+2020-07-18 10:56:31,634 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 对你爱爱爱不完
+2020-07-18 11:10:42,737 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
+2020-07-18 15:11:36,489 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 好[CQ:face,id=179]
+2020-07-18 15:11:46,147 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 龙哥 重启演的不错
+2020-07-18 16:03:22,280 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test2
+2020-07-18 16:03:23,294 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 哈哈哈
+2020-07-18 16:03:23,497 - awesome.logger_s - DEBUG - From: 1770946116, NickName: QQ安全中心, Say: 【设备验证通过提醒】
+
+你的QQ于7月18日15:55在“OPPO R9s”设备登录，该次登录未发现异常，已自动为你通过验证。
+
+如果这不是你的设备，可以在“设置-帐号安全-登录保护”中删除，下次登录需重新验证。
+2020-07-18 16:03:35,501 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 呵呵
+2020-07-18 16:03:40,827 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 呵呵
+2020-07-18 16:03:44,759 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 呵呵
+2020-07-18 16:03:49,392 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 嗯嗯
+2020-07-18 16:03:52,559 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 嗯嗯
+2020-07-18 16:03:55,835 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 哦哦哦哦
+2020-07-18 16:04:00,405 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 哈哈
+2020-07-18 16:04:02,823 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 嗯
+2020-07-18 16:04:04,758 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 哦
+2020-07-18 16:04:07,893 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 额
+2020-07-18 16:04:20,888 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: sbbb
+2020-07-18 16:14:40,176 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 千山万水
+2020-07-18 18:09:03,964 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 李云龙
+2020-07-18 23:00:19,218 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好的
+2020-07-19 19:56:07,702 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 人事编
+2020-07-19 21:00:04,609 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, 错误：发送表情、图片、语音
+2020-07-19 23:05:14,332 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
+2020-07-19 23:40:53,919 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-19 23:40:58,567 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-19 23:41:01,516 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 爱你
+2020-07-19 23:41:07,537 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 谢谢
+2020-07-19 23:41:15,509 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你不好意思是啥样
+2020-07-19 23:41:22,108 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我问你呢
+2020-07-19 23:41:29,331 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你爸爸喜欢谁
+2020-07-19 23:41:36,850 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你喜欢谁
+2020-07-19 23:41:48,753 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你老婆呢
+2020-07-19 23:41:52,559 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 啊哈哈
+2020-07-19 23:41:55,071 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 扎心了
+2020-07-19 23:42:15,101 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我好像没有对象了
+2020-07-19 23:42:19,859 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 哈哈哈
+2020-07-19 23:42:21,934 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 是的呢
+2020-07-19 23:42:27,191 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 说没有就没有了
+2020-07-19 23:42:38,532 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你太不聪明了
+2020-07-20 09:59:19,364 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 嗯嗯
+2020-07-20 12:49:45,519 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 搞得好像喂给了一个狗一样
+2020-07-20 12:49:47,511 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 啊哈哈
+2020-07-20 16:26:39,170 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 别骚了
+2020-07-20 17:34:53,689 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: shaquea
+2020-07-20 17:34:56,722 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 傻缺啊
+2020-07-20 17:35:02,545 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我偏不
+2020-07-20 17:58:20,863 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 疯了疯了
+2020-07-21 07:46:24,232 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: hu
+2020-07-21 07:46:24,481 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 打的
+2020-07-21 07:46:33,919 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 挺好
+2020-07-21 15:36:30,045 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 廊桥遗梦的经典台词啦
+2020-07-21 15:37:53,058 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 是的啊 很难笃定这辈子遇到的这个人便是你一定会爱上的那个人 很多人都是遇不到确切的爱情的
+2020-07-21 15:38:36,901 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 如果有一天我遇上爱情了 也会奋不顾身吧
+2020-07-21 15:38:43,187 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你好笨啊
+2020-07-21 15:40:52,951 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 你的名字
+2020-07-21 15:41:02,870 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 小豪豪
+2020-07-21 15:41:20,852 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 我想一个人了  但不是你
+2020-07-21 15:50:55,358 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 1
+2020-07-21 15:50:58,909 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 2
+2020-07-21 15:51:13,823 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 你有女朋友吗
+2020-07-21 15:51:24,947 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 李银芳漂亮吗
+2020-07-21 15:51:30,374 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 哈哈哈
+2020-07-21 15:53:14,306 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 你叫什么
+2020-07-21 15:53:21,305 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 你叫什么
+2020-07-21 15:53:26,097 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 你叫什么
+2020-07-21 15:54:43,014 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 你爸爸叫什么？
+2020-07-21 15:54:46,435 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 叫什么
+2020-07-21 15:54:50,905 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 叫什么嘛
+2020-07-21 15:54:55,779 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 嗯
+2020-07-21 15:54:59,412 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 好
+2020-07-21 15:55:09,407 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 你是男的女的
+2020-07-21 15:58:58,897 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: if __name__ == '__main__':
+    handleEncoding('新闻语料库.csv','new_data.csv')
+2020-07-21 15:59:06,261 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: print
+2020-07-21 15:59:08,746 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 1
+2020-07-21 15:59:22,133 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: print('123')
+2020-07-21 16:04:21,277 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 山无棱天地合
+2020-07-21 16:04:24,855 - awesome.logger_s - DEBUG - From: 937345907, NickName: 平安喜乐, 执行指令：我的位置 安吉
+2020-07-21 16:04:28,394 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 渣男
+2020-07-21 16:04:35,162 - awesome.logger_s - DEBUG - From: 631022588, NickName: 很久没酷了, Say: 渣男
+2020-07-21 21:03:40,162 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
+2020-07-21 22:19:12,841 - awesome.logger_s - DEBUG - From: 805422457, NickName: fan, Say: 喂
+2020-07-21 22:53:17,681 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
+2020-07-21 22:53:23,812 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 明天补课
+2020-07-21 22:53:30,217 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 草
+2020-07-21 23:02:28,127 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
