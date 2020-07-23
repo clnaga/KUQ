@@ -63,7 +63,7 @@ async def _():
     print(f"time: {datetime.datetime.now()} -- scheduler send_weather_info_to_friends stop!")
 
 
-@nonebot.scheduler.scheduled_job('cron', id='refresh_friend_connectivity_index', hour='23', minute='58')
+@nonebot.scheduler.scheduled_job('cron', id='refresh_friend_connectivity_index', hour='8', minute='10')
 async def _():
     print(f"time: {datetime.datetime.now()} -- scheduler refresh_friend_connectivity_index start!")
     # 获取好友qq号

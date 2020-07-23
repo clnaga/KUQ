@@ -309,3 +309,31 @@
 2020-07-21 22:53:23,812 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 明天补课
 2020-07-21 22:53:30,217 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 草
 2020-07-21 23:02:28,127 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
+2020-07-22 11:41:05,386 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 你好，我现在有事不在，一会再和你联系。
+2020-07-22 11:41:05,858 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 09806-07443-53955-64350-21751-41297
+2020-07-22 12:29:36,116 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
+2020-07-22 14:56:42,222 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, 错误：发送表情、图片、语音
+2020-07-22 14:56:47,207 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 烦
+2020-07-22 14:56:53,324 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 好吧
+2020-07-22 14:57:02,941 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: [CQ:face,id=182][CQ:face,id=182][CQ:face,id=182]太傻了
+2020-07-22 14:57:25,485 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 最近比较烦比较烦比较烦
+2020-07-22 14:57:44,388 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 我担心个鬼啊
+2020-07-22 14:57:51,152 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 咳咳咳
+2020-07-22 14:57:54,829 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 太智障了
+2020-07-22 14:57:57,527 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 哈哈哈H5哈哈哈哈哈哈哈哈还哈我去
+2020-07-22 14:58:22,645 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 龙哥，重启演的好哦
+2020-07-22 14:58:27,650 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 是的是的
+2020-07-22 14:58:46,422 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 艹 我一直都这么觉得 呵呵我？
+2020-07-22 14:58:52,085 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 太笨了
+2020-07-22 14:59:01,693 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 哈哈好吧
+2020-07-22 14:59:07,680 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, 错误：发送表情、图片、语音
+2020-07-22 18:28:40,640 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 嗯嗯
+2020-07-22 18:41:41,611 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 假假得真
+2020-07-22 23:00:12,729 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 日落之前, Say: 好
+2020-07-23 08:36:20,054 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
+2020-07-23 08:36:31,775 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
+2020-07-23 08:36:51,147 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
+2020-07-23 08:36:56,007 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
+2020-07-23 08:37:00,587 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
+2020-07-23 08:37:09,047 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
+2020-07-23 08:37:15,227 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1

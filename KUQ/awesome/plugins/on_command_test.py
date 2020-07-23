@@ -13,9 +13,8 @@ logger = logger_s.get_logger()
 @on_command('test1', aliases=('test1', 'tests1'))
 async def test1(session: CommandSession):
     print(f"time: {datetime.datetime.now()} -- on_command test1 start!")
-    await get_info_from_txt.change_friend_info(707598245, 3, 1)
+
     print(f"time: {datetime.datetime.now()} -- on_command test1 stop!")
-    pass
 
 
 @on_command('test2', aliases=('test2', 'tests2'))
