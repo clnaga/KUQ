@@ -43,6 +43,7 @@ async def set_friend_city(session: CommandSession):
 #         pass
 #     print(f"time: {datetime.datetime.now()} -- scheduler send_goodnight stop!")
 
+
 # 晚上 23 点给好友发送天气
 @nonebot.scheduler.scheduled_job('cron', id='send_weather_to_friend', hour='23', minute='0', second='3')
 async def _():
@@ -63,7 +64,7 @@ async def _():
     print(f"time: {datetime.datetime.now()} -- scheduler send_weather_info_to_friends stop!")
 
 
-@nonebot.scheduler.scheduled_job('cron', id='refresh_friend_connectivity_index', hour='8', minute='10')
+@nonebot.scheduler.scheduled_job('cron', id='refresh_friend_connectivity_index', hour='9', minute='1')
 async def _():
     print(f"time: {datetime.datetime.now()} -- scheduler refresh_friend_connectivity_index start!")
     # 获取好友qq号
@@ -73,7 +74,11 @@ async def _():
             friend_in_list[2] = str(1)
         elif friend_connectivity_index == 3:
             friend_in_list[2] = str(0)
-            await bot.send_private_msg(user_id=friend_in_list[0], message='咱俩太久没有交流了，我自闭去了，别回复我，不然我又骚扰你啦')
+            try:
+                await bot.send_private_msg(user_id=friend_in_list[0], message='咱俩太久没有交流了，我自闭去了，别回复我，不然我又骚扰你啦')
+            except CQHttpError:
+                #  被删好友可能发送不了信息，会报错
+                pass
         else:
             friend_connectivity_index = 5
             friend_in_list[2] = str(0)
