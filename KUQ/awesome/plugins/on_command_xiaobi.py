@@ -12,6 +12,7 @@ flag = get_info_from_txt.get_flag_from_txt()
 if flag[0][1] == str('1'):
     curr_time = datetime.datetime.now()
     print(f"time: {curr_time} -- scheduler_xiaobo_start")
+
     @nonebot.scheduler.scheduled_job('cron', id='start_notice_hui', day_of_week='mon-fri', hour='15', minute="20, 25")
     async def _():
         try:
@@ -22,6 +23,7 @@ if flag[0][1] == str('1'):
 if flag[1][1] == str('1'):
     curr_time = datetime.datetime.now()
     print(f"time: {curr_time} -- scheduler_xiaoyue_start")
+
     @nonebot.scheduler.scheduled_job('cron', id='start_notice_yue', hour='23', minute="10")
     async def _():
         try:
@@ -53,6 +55,7 @@ async def _(session: CommandSession):
             pass
 
         get_info_from_txt.refresh_flag('scheduler_xiaobi_is_open', "1")
+
         @nonebot.scheduler.scheduled_job('cron', id='start_notice_hui', day_of_week='mon-fri', hour='15', minute="20, 25")
         async def _():
             try:
@@ -63,7 +66,7 @@ async def _(session: CommandSession):
 
 @on_command('stop_notice_hui', aliases=('关闭毕院士提醒', '关闭小毕同志提醒', '关闭小毕提醒',))
 async def _(session: CommandSession):
-    print(f"time: {datetime.datetime.now()} -- on_command start_notice_hui stop!")
+    print(f"time: {datetime.datetime.now()} -- on_command start_notice_hui stop!\n")
     try:
         if nonebot.scheduler.get_job('start_notice_hui'):
             nonebot.scheduler.remove_job('start_notice_hui')
@@ -101,6 +104,7 @@ async def _(session: CommandSession):
             pass
 
         get_info_from_txt.refresh_flag('scheduler_xiaoyue_is_open', "1")
+
         @nonebot.scheduler.scheduled_job('cron', id='start_notice_yue', hour='23', minute="10")
         async def _():
             try:
@@ -111,7 +115,7 @@ async def _(session: CommandSession):
 
 @on_command('stop_notice_yue', aliases=('小玥提醒工具关闭', 'xx提醒工具关闭'))
 async def _(session: CommandSession):
-    print(f"time: {datetime.datetime.now()} -- on_command start_notice_yue stop!")
+    print(f"time: {datetime.datetime.now()} -- on_command start_notice_yue stop!\n")
     try:
         if nonebot.scheduler.get_job('start_notice_yue'):
             nonebot.scheduler.remove_job('start_notice_yue')

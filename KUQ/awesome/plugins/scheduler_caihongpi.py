@@ -37,7 +37,7 @@ def create_chp(create_chp_times):
                             pass
             except CQHttpError:
                 pass
-            print(f"time: {datetime.datetime.now()} -- scheduler {chp_time} stop!")
+            print(f"time: {datetime.datetime.now()} -- scheduler {chp_time} stop!\n")
 
 
 create_chp(chp_times)

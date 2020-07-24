@@ -5,6 +5,8 @@ import nonebot
 import datetime
 from awesome import get_info_from_txt
 import time
+import requests
+from bs4 import BeautifulSoup
 
 bot = nonebot.get_bot()
 logger = logger_s.get_logger()
@@ -13,8 +15,15 @@ logger = logger_s.get_logger()
 @on_command('test1', aliases=('test1', 'tests1'))
 async def test1(session: CommandSession):
     print(f"time: {datetime.datetime.now()} -- on_command test1 start!")
-
-    print(f"time: {datetime.datetime.now()} -- on_command test1 stop!")
+    ret = requests.get(
+        url="https://chp.shadiao.app/api.php",
+        headers={
+            'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36', }
+    )
+    soup = BeautifulSoup(ret.text, 'html.parser')  # 使用 lxml 则速度更快
+    if soup is not None:
+        print("ss")
+    print(f"time: {datetime.datetime.now()} -- on_command test1 stop!\n")
 
 
 @on_command('test2', aliases=('test2', 'tests2'))
@@ -22,7 +31,7 @@ async def test2(session: CommandSession):
     print(f"time: {datetime.datetime.now()} -- on_command test2 start!")
     print(nonebot.scheduler.get_jobs())
     print(get_info_from_txt.FRIENDS)
-    print(f"time: {datetime.datetime.now()} -- on_command test2 stop!")
+    print(f"time: {datetime.datetime.now()} -- on_command test2 stop!\n")
     pass
 
 
@@ -37,4 +46,4 @@ async def suggestion(session: CommandSession):
         await session.send("谢谢你的建议 [CQ:face,id=126]")
     except CQHttpError:
         pass
-    print(f"time: {datetime.datetime.now()} -- on_command suggestion stop!")
+    print(f"time: {datetime.datetime.now()} -- on_command suggestion stop!\n")

@@ -28,7 +28,7 @@ async def set_friend_city(session: CommandSession):
                                "要关闭的话输出\n\n我的位置 error")
         except CQHttpError:
             pass
-    print(f"time: {datetime.datetime.now()} -- on_command set_friend_city stop!")
+    print(f"time: {datetime.datetime.now()} -- on_command set_friend_city stop!\n")
 
 # # 晚上 23 点发送晚安
 # @nonebot.scheduler.scheduled_job('cron', hour='23')
@@ -61,7 +61,7 @@ async def _():
                     await bot.send_private_msg(user_id=friend_in_list[0], message=send_msg)
                 except CQHttpError:
                     pass
-    print(f"time: {datetime.datetime.now()} -- scheduler send_weather_info_to_friends stop!")
+    print(f"time: {datetime.datetime.now()} -- scheduler send_weather_info_to_friends stop!\n")
 
 
 @nonebot.scheduler.scheduled_job('cron', id='refresh_friend_connectivity_index', hour='9', minute='1')
@@ -84,7 +84,7 @@ async def _():
             friend_in_list[2] = str(0)
         friend_in_list[3] = str(friend_connectivity_index)
     await get_info_from_txt.change_friend_info()
-    print(f"time: {datetime.datetime.now()} -- scheduler refresh_friend_connectivity_index stop!")
+    print(f"time: {datetime.datetime.now()} -- scheduler refresh_friend_connectivity_index stop!\n")
 
 
 # 获取每日天气推送

@@ -14,6 +14,6 @@ async def _(session: RequestSession):
         pass
     send_id = session.ctx['user_id']
     get_info_from_txt.add_friend(send_id)
-    print(f"time: {datetime.datetime.now()} -- request stop!")
+    print(f"time: {datetime.datetime.now()} -- request stop!\n")
     # print(type(friend.FRIENDS[0]))
     # print(friend.get_user_id_from_txt())

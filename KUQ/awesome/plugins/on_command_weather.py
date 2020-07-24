@@ -4,6 +4,7 @@ import json
 from aiocqhttp.exceptions import Error as CQHttpError
 import datetime
 
+
 # on_command 装饰器将函数声明为一个命令处理器
 # 这里 weather 为命令的名字，同时允许使用别名「天气」「天气预报」「查天气」
 @on_command('weather', aliases=('天气', '天气预报', '查天气'))
@@ -30,7 +31,7 @@ async def weather(session: CommandSession):
             await session.send("指令错误额，要想这样\n\n天气 北京\n\n（注意中间的一个空格）")
         except CQHttpError:
             pass
-    print(f"time: {datetime.datetime.now()} -- on_command weather stop!")
+    print(f"time: {datetime.datetime.now()} -- on_command weather stop!\n")
 
 
 # # weather.args_parser 装饰器将函数声明为 weather 命令的参数解析器

@@ -23,6 +23,7 @@ async def richeng(session: CommandSession):
             insert_time = str(curr_time.year) + '-' + str(curr_time.month) + '-' + str(curr_time.day + time_num) \
                           + ' ' + str(stripped_arg_time[0]) + ':' + str(stripped_arg_time[1]) + ':0'
             insert_info = stripped_arg[1]
+
             @nonebot.scheduler.scheduled_job('date', id='richeng: '+insert_time, run_date=insert_time)
             async def _():
                 try:
@@ -44,7 +45,7 @@ async def richeng(session: CommandSession):
                                "添加日程 8点20 我要上天\n添加提醒 18:20 我要上天\n添加提醒 明天 6点10 我要上天")
         except CQHttpError:
             pass
-    print(f"time: {datetime.datetime.now()} -- on_command richeng stop!")
+    print(f"time: {datetime.datetime.now()} -- on_command richeng stop!\n")
 
 
 # @on_command('daily_richeng', aliases=('添加每日日程', '添加每日提醒'))
