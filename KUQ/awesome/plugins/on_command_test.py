@@ -17,8 +17,6 @@ async def test1(session: CommandSession):
     print(f"time: {datetime.datetime.now()} -- on_command test1 start!")
     ret = requests.get(
         url="https://chp.shadiao.app/api.php",
-        headers={
-            'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36', }
     )
     soup = BeautifulSoup(ret.text, 'html.parser')  # 使用 lxml 则速度更快
     if soup is not None:
