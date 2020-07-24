@@ -24,6 +24,7 @@ for FRIEND_IN_LIST in FRIENDS_IN_LIST:
     FRIEND_IN_LIST_INSERT_MSG = [FRIEND_IN_LIST[0], 0]
     FRIENDS_IN_ATUO_REPLY.append(FRIEND_IN_LIST_INSERT_MSG)
 
+
 # 监听所有通话
 # @bot.on_message("private")  私聊
 # @bot.on_message("group")    群发
