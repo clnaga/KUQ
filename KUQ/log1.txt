@@ -368,3 +368,4 @@
 2020-07-23 17:18:31,065 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 我黑化了
 2020-07-23 17:18:37,274 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 卧槽卧槽卧槽我
 2020-07-24 11:28:03,763 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-07-24 15:48:47,573 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1

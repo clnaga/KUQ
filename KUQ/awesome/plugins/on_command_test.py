@@ -23,7 +23,8 @@ async def test1(session: CommandSession):
     soup = BeautifulSoup(ret.text, 'html.parser')  # 使用 lxml 则速度更快
     if soup is not None:
         print("ss")
-    print(f"time: {datetime.datetime.now()} -- on_command test1 stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command test1 stop!")
+    print("----------------------------------------------------------------\n")
 
 
 @on_command('test2', aliases=('test2', 'tests2'))
@@ -31,7 +32,8 @@ async def test2(session: CommandSession):
     print(f"time: {datetime.datetime.now()} -- on_command test2 start!")
     print(nonebot.scheduler.get_jobs())
     print(get_info_from_txt.FRIENDS)
-    print(f"time: {datetime.datetime.now()} -- on_command test2 stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command test2 stop!")
+    print("----------------------------------------------------------------\n")
     pass
 
 
@@ -46,4 +48,5 @@ async def suggestion(session: CommandSession):
         await session.send("谢谢你的建议 [CQ:face,id=126]")
     except CQHttpError:
         pass
-    print(f"time: {datetime.datetime.now()} -- on_command suggestion stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command suggestion stop!")
+    print("----------------------------------------------------------------\n")

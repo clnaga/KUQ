@@ -66,7 +66,8 @@ async def _(session: CommandSession):
 
 @on_command('stop_notice_hui', aliases=('关闭毕院士提醒', '关闭小毕同志提醒', '关闭小毕提醒',))
 async def _(session: CommandSession):
-    print(f"time: {datetime.datetime.now()} -- on_command start_notice_hui stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command start_notice_hui stop!")
+    print("----------------------------------------------------------------\n")
     try:
         if nonebot.scheduler.get_job('start_notice_hui'):
             nonebot.scheduler.remove_job('start_notice_hui')
@@ -115,7 +116,8 @@ async def _(session: CommandSession):
 
 @on_command('stop_notice_yue', aliases=('小玥提醒工具关闭', 'xx提醒工具关闭'))
 async def _(session: CommandSession):
-    print(f"time: {datetime.datetime.now()} -- on_command start_notice_yue stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command start_notice_yue stop!")
+    print("----------------------------------------------------------------\n")
     try:
         if nonebot.scheduler.get_job('start_notice_yue'):
             nonebot.scheduler.remove_job('start_notice_yue')

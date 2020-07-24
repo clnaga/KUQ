@@ -25,7 +25,8 @@ async def choose_dinner(session: CommandSession):
         await session.send(dinner_res)
     except CQHttpError:
         pass
-    print(f"time: {datetime.datetime.now()} -- on_command choose_dinner stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command choose_dinner stop!")
+    print("----------------------------------------------------------------\n")
 
 
 @on_command('choose_dinner_room', aliases=('在哪吃', '在哪里吃'))
@@ -36,7 +37,8 @@ async def choose_dinner_room(session: CommandSession):
         await session.send(dinner_room_res)
     except CQHttpError:
         pass
-    print(f"time: {datetime.datetime.now()} -- on_command choose_dinner_room stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command choose_dinner_room stop!")
+    print("----------------------------------------------------------------\n")
 
 
 def get_dinner():

@@ -45,7 +45,8 @@ async def richeng(session: CommandSession):
                                "添加日程 8点20 我要上天\n添加提醒 18:20 我要上天\n添加提醒 明天 6点10 我要上天")
         except CQHttpError:
             pass
-    print(f"time: {datetime.datetime.now()} -- on_command richeng stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command richeng stop!")
+    print("----------------------------------------------------------------\n")
 
 
 # @on_command('daily_richeng', aliases=('添加每日日程', '添加每日提醒'))

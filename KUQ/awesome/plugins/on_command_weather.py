@@ -31,7 +31,8 @@ async def weather(session: CommandSession):
             await session.send("指令错误额，要想这样\n\n天气 北京\n\n（注意中间的一个空格）")
         except CQHttpError:
             pass
-    print(f"time: {datetime.datetime.now()} -- on_command weather stop!\n")
+    print(f"time: {datetime.datetime.now()} -- on_command weather stop!")
+    print("----------------------------------------------------------------\n")
 
 
 # # weather.args_parser 装饰器将函数声明为 weather 命令的参数解析器

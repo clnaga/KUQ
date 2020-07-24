@@ -63,7 +63,8 @@ async def _(msg):
                                    message=response_msg)
     except CQHttpError:
         pass
-    print(f"time: {datetime.datetime.now()} -- auto_replay stop!\n")
+    print(f"time: {datetime.datetime.now()} -- auto_replay stop!")
+    print("----------------------------------------------------------------\n")
 
 
 @nonebot.scheduler.scheduled_job('cron', id='auto_relay_init_FRIENDS', hour='7')
