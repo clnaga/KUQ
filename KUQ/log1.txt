@@ -372,3 +372,36 @@
 2020-07-24 15:52:26,221 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
 2020-07-24 15:54:02,822 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
 2020-07-24 15:54:34,797 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：test1
+2020-07-24 18:44:20,508 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 啊？
+2020-07-24 18:44:29,741 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 张起灵
+2020-07-24 18:44:38,560 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 呦
+2020-07-24 18:44:40,649 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 吴邪
+2020-07-24 18:45:09,410 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: ！！！稻米
+2020-07-24 18:45:16,689 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 胖子
+2020-07-24 18:45:35,181 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 王胖子
+2020-07-24 18:46:03,275 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 厉害了
+2020-07-24 18:54:54,829 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 朱一龙
+2020-07-24 18:55:23,131 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 今天是什么日子
+2020-07-24 18:55:38,512 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 今天农历几号
+2020-07-24 18:56:39,576 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 盗墓笔记
+2020-07-24 18:56:56,503 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 你识别不了。。。
+2020-07-24 18:57:09,708 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 盗墓笔记重启
+2020-07-24 18:57:21,597 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 重启之极海听雷
+2020-07-24 18:57:33,350 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 盗墓笔记之重启
+2020-07-24 18:57:40,761 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 早就有啦
+2020-07-24 18:57:52,076 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, 错误：发送表情、图片、语音
+2020-07-24 18:58:21,161 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 用我一生，换你十年天真无邪。
+2020-07-24 18:58:31,379 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 铁三角
+2020-07-24 18:58:41,324 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 禁婆
+2020-07-24 18:58:54,299 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 不错不错
+2020-07-24 18:59:04,201 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: T检验
+2020-07-24 18:59:23,290 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 主成分分析
+2020-07-24 23:00:31,357 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: ？
+2020-07-24 23:00:31,682 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-24 23:00:32,752 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 嗯
+2020-07-24 23:00:37,341 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 哦
+2020-07-25 07:33:22,042 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: /emm
+2020-07-25 09:33:16,975 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 好骚啊
+2020-07-25 09:33:19,420 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 这u话
+2020-07-25 09:33:42,028 - awesome.logger_s - DEBUG - From: 805422457, NickName: fan, Say: 喂
+2020-07-25 10:11:42,320 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 嗯
