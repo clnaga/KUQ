@@ -405,3 +405,70 @@
 2020-07-25 09:33:19,420 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 这u话
 2020-07-25 09:33:42,028 - awesome.logger_s - DEBUG - From: 805422457, NickName: fan, Say: 喂
 2020-07-25 10:11:42,320 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 嗯
+2020-07-25 23:09:05,323 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 很
+2020-07-26 00:24:49,227 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 嗯
+2020-07-26 00:24:51,480 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 哦
+2020-07-26 00:24:54,315 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-26 00:24:58,294 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 呵呵
+2020-07-26 00:25:02,645 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 呵呵
+2020-07-26 09:47:16,419 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-26 11:36:14,152 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, 错误：发送表情、图片、语音
+2020-07-26 15:55:35,873 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-26 23:00:16,848 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 和
+2020-07-26 23:59:04,735 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 好滴~~
+2020-07-27 09:15:52,674 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 错误：发送表情、图片、语音
+2020-07-27 09:16:00,054 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 哈哈哈
+2020-07-27 17:52:57,745 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-27 19:33:13,568 - awesome.logger_s - DEBUG - From: 805422457, NickName: fan, Say: 1
+2020-07-27 19:33:21,105 - awesome.logger_s - DEBUG - From: 805422457, NickName: fan, Say: a
+2020-07-27 19:33:29,008 - awesome.logger_s - DEBUG - From: 805422457, NickName: fan, Say: b
+2020-07-27 19:33:33,322 - awesome.logger_s - DEBUG - From: 805422457, NickName: fan, Say: n
+2020-07-27 19:33:52,140 - awesome.logger_s - DEBUG - From: 805422457, NickName: fan, Say: apple
+2020-07-27 21:41:31,453 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 傻缺
+2020-07-28 08:54:29,578 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 哎呀呀
+2020-07-28 08:54:33,701 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 没有带伞
+2020-07-28 08:54:39,295 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 淋着雨来的
+2020-07-28 08:54:44,583 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 哈哈
+2020-07-28 17:03:26,948 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 人
+2020-07-28 20:38:33,327 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好啦
+2020-07-28 20:41:13,970 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 灌灌灌灌
+2020-07-28 22:29:53,851 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 小迷妹
+2020-07-28 23:39:26,646 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-29 09:05:43,570 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 重启之极海听雷
+2020-07-29 09:05:53,253 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: /辣眼睛不雷人
+2020-07-29 17:20:41,680 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 嗯
+2020-07-29 17:20:45,315 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-29 17:20:48,815 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 哦
+2020-07-29 17:20:50,908 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 奥
+2020-07-29 17:20:54,309 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 奥
+2020-07-29 17:20:57,892 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 你
+2020-07-29 17:21:01,855 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 可
+2020-07-29 17:21:20,305 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 老子是仙女
+2020-07-29 18:02:58,081 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 偶偶
+2020-07-29 20:03:31,156 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-29 22:25:11,301 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 反了
+2020-07-29 23:00:16,881 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-30 12:10:39,996 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 好
+2020-07-30 15:18:23,814 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 小渣渣
+2020-07-30 15:18:34,470 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 骂你渣渣灰呢
+2020-07-30 15:18:40,784 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 天天那么肉麻
+2020-07-30 15:18:48,610 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 能不能问几句 你吃饭了吗
+2020-07-30 15:18:55,154 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 问
+2020-07-30 15:19:12,891 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 太肉麻了吧
+2020-07-30 17:39:31,725 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 还
+2020-07-30 23:10:45,404 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 赴山看日落, Say: 时间从不语却回答了所有问题
+2020-07-31 09:11:35,718 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 错误：发送表情、图片、语音
+2020-07-31 11:16:42,980 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 温柔且霸道33, Say: 哦
+2020-07-31 17:02:51,014 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: /我酸了
+2020-07-31 21:14:40,734 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 温柔且霸道33, Say: 好
+2020-07-31 23:03:05,789 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 啊啊啊啊
+2020-08-01 00:08:26,349 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 温柔且霸道33, Say: 哈
+2020-08-01 09:21:19,587 - awesome.logger_s - DEBUG - From: 573477577, NickName: 、八九, Say: 今天没有雨呀
+2020-08-01 11:26:58,076 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 温柔且霸道33, Say: 好
+2020-08-01 11:30:45,289 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 爱你
+2020-08-01 23:00:16,032 - awesome.logger_s - DEBUG - From: 3339724715, NickName: 温柔且霸道33, Say: 好
+2020-08-01 23:00:16,391 - awesome.logger_s - DEBUG - From: 3204369631, NickName: LYF, Say: 哦哦哦哦哦
+2020-08-01 23:44:37,774 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 讲个笑话
+2020-08-01 23:48:50,277 - awesome.logger_s - DEBUG - From: 909359100, NickName: 沐七, Say: 程钊是我孙子
+2020-08-02 09:18:23,547 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, Say: 啦啦啦
+2020-08-02 09:19:35,092 - awesome.logger_s - DEBUG - From: 707598245, NickName: C Z, 执行指令：建议 emiyaisgod

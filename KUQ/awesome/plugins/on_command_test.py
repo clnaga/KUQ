@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 
 bot = nonebot.get_bot()
 logger = logger_s.get_logger()
+logger_suggestions = logger_s.get_logger_suggestions()
 
 
 @on_command('test1', aliases=('test1', 'tests1'))
@@ -41,7 +42,7 @@ async def suggestion(session: CommandSession):
     # 命令会话当前参数。实际上是 酷 Q 收到的消息去掉命令名的剩下部分
     stripped_arg = session.current_arg_text.strip()
     logger_msg = "建议内容：" + stripped_arg
-    logger.debug(logger_msg)
+    logger_suggestions.debug(logger_msg)
     try:
         await session.send("谢谢你的建议 [CQ:face,id=126]")
     except CQHttpError:
